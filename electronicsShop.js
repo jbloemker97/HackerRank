@@ -29,6 +29,3 @@ function getMoneySpent(keyboards, drives, b) {
 // Test cases
 let a = getMoneySpent([5, 1, 1], [4], 5);
 let b = getMoneySpent([5, 10, 1], [10, 4, 5], 25);
-
-console.log(a);
-console.log(b);
